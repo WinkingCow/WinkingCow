@@ -1,0 +1,23 @@
+{
+    "name": "Winking Cow",
+    "symbol": "$WINKCOW",
+    "description": "Winking Cow ($WINKCOW) is a community-powered meme coin on Solana — created to entertain, surprise, and reward its herd. With 100 trillion tokens and a whole lot of attitude. This cow doesn’t follow trends, it starts stampedes.",
+    "image": "https://raw.githubusercontent.com/WinkingCow/WinkingCow/main/Logo_-_Winking_Cow_Token_-_PNG.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/WinkingCow/WinkingCow/main/Logo_-_Winking_Cow_Token_-_PNG.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image"
+    }
+
+  }
+  
+
+
+
+
+
+
