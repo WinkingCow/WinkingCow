@@ -1,5 +1,5 @@
 # Winking Cow
-
+![Winking Cow](Logo_-_Winking_Cow_Token_-_PNG.png)
 Winking Cow is a culture-first memecoin experiment.
 It is not built for speed, hype, or noise.
 
