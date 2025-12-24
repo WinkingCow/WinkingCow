@@ -1,4 +1,7 @@
 # Winking Cow
+<p align="center">
+  <img src="Winking Cow - Winking - 240 x 240 - GitHub.png" width="240" alt="Winking Cow Logo">
+</p>
 Winking Cow is a culture-first memecoin experiment.
 It is not built for speed, hype, or noise.
 
