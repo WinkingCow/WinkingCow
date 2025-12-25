@@ -27,12 +27,19 @@ That is intentional.
 
 ## Where to follow the thinking
 
-Website: https://www.winkingcow.com  
-X: https://x.com/WinkingCowToken  
-Medium: https://medium.com/@WinkingCowToken  
-YouTube: https://www.youtube.com/@WinkingCowToken  
-Pinterest: https://www.pinterest.com/winkingcowpins/  
-Spotify: https://open.spotify.com/show/2kU8vmrpK77WVUM4otPR1a  
-LinkedIn: https://www.linkedin.com/in/winkingcow/ 
+- Website: https://www.winkingcow.com  
+- X (Twitter): https://x.com/winkingcow  
+
+- GitHub: https://github.com/WinkingCow/WinkingCow  
+- YouTube: https://www.youtube.com/@WinkingCowToken  
+- Spotify: https://open.spotify.com/show/2kU8vmrpK77WVUM4otPR1a  
+- Rumble: https://rumble.com/user/WinkingCowToken  
+
+- Substack: https://substack.com/@winkingcow  
+- Wattpad: https://www.wattpad.com/winkingcow  
+- Bluesky: https://bsky.app/profile/winkingcow.bsky.social  
+- Pinterest: https://www.pinterest.com/winkingcowpins/  
+- LinkedIn: https://www.linkedin.com/in/winkingcow/  
+- Quora: https://www.quora.com/profile/Winking-Cow  
 
 More will be added when it earns its place.
