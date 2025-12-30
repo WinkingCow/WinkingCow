@@ -1,29 +1,37 @@
 # Winking Cow
+
 <p align="center">
   <img src="Winking Cow - Winking - 240 x 240 - GitHub.png" width="240" alt="Winking Cow Logo">
 </p>
-Winking Cow is a culture-first memecoin experiment.
+
+Winking Cow is a culture-first memecoin experiment.  
 It is not built for speed, hype, or noise.
 
-This repository exists to document ideas, decisions, and patterns
+This repository exists to document ideas, decisions, and patterns  
 as they take shape over time.
+
+---
 
 ## Why this exists
 
-Most projects shout before they understand themselves.
+Most projects shout before they understand themselves.  
 Winking Cow is doing the opposite.
 
-We are interested in behavior, culture, and long-term attention
+We are interested in behavior, culture, and long-term attention  
 before code, launches, or growth charts.
+
+---
 
 ## How it is being built
 
-Slowly.
-Publicly.
+Slowly.  
+Publicly.  
 With restraint.
 
-Some things will appear unfinished.
+Some things will appear unfinished.  
 That is intentional.
+
+---
 
 ## Where to follow the thinking
 
