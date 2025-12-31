@@ -1,4 +1,4 @@
-# Daisy’s Diary — 2025
+# Daisy’s Diary - 2025
 
 This folder contains Daisy’s Diary entries written during the year 2025.
 
