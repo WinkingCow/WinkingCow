@@ -1,3 +1,5 @@
+![Podcast 02 Thumbnail](thumbnail.png.png)
+
 # Podcast Title
 Before the Moo, There Was a Mission
 
