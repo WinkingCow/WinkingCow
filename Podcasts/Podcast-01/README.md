@@ -1,3 +1,5 @@
+![Podcast 02 Thumbnail](Thumbnail.png)
+
 # Podcast Title
 This is Not Just a Podcast. This is a Moo-vement.
 
