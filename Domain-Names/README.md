@@ -28,17 +28,34 @@ Additional domains are intentionally held back due to privacy and cyber-squattin
 
 ## Content & Culture
 
-Proposed domain names related to storytelling, philosophy, and cultural extensions  
-are held back intentionally and not listed publicly due to privacy and cyber-squatting risks.
+The following domains are part of Winking Cow’s cultural, philosophical, and narrative
+extensions. These focus on ideas, expression, and long-term brand language.
+
+- https://www.cowspeed.com  
+  Philosophy of patience, timing, and momentum.
+
+- https://www.makemehype.com  
+  Cultural commentary on attention, hype, and visibility.
+
+- https://www.helpmeshine.com  
+  Motivation, encouragement, and community-oriented expression.
+
+Additional culture-focused domains may exist but are not listed publicly due to
+privacy and cyber-squatting risks.
 
 ---
 
 ## Reserved / Future Use
 
-Additional proposed domain names reserved for long-term positioning, movements,  
+The following domain is reserved for future infrastructure or utility-oriented
+initiatives and is intentionally not activated yet.
+
+- https://www.donategas.com  
+  Reserved for a future utility concept related to ecosystem support.
+
+Additional proposed domain names reserved for long-term positioning, movements,
 and future expansions are intentionally undisclosed at this stage.
 
 ---
 
-_Last updated: 30 December 2025_
-
+_Last updated: 11 January 2026_
