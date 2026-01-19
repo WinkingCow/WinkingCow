@@ -1,7 +1,7 @@
 # Domain Names
 
 This folder documents domain names associated with the Winking Cow ecosystem.
-Only active domains and live subdomains are listed publicly.
+Only active domains, live subdomains, and forwarded domains are listed publicly.
 Additional domains are intentionally held back due to privacy and cyber-squatting considerations.
 
 ---
@@ -10,6 +10,23 @@ Additional domains are intentionally held back due to privacy and cyber-squattin
 
 - https://www.winkingcow.com  
   Primary ecosystem hub for Winking Cow.
+
+---
+
+## Forwarded Domain Names
+
+The following domains are actively maintained and currently forwarded
+to the primary domain (https://www.winkingcow.com/) to ensure brand continuity
+and traffic consolidation.
+
+- https://www.winkingcowtoken.com  
+  Forwarded to the primary ecosystem hub.
+
+- https://www.winkingcow.org  
+  Forwarded to the primary ecosystem hub.
+
+- https://www.winkingcow.xyz  
+  Forwarded to the primary ecosystem hub.
 
 ---
 
